@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Programming2_Project2/static/css/main.719aeb1d.css",
+    "main.js": "/Programming2_Project2/static/js/main.79eb8187.js",
+    "index.html": "/Programming2_Project2/index.html",
+    "main.719aeb1d.css.map": "/Programming2_Project2/static/css/main.719aeb1d.css.map",
+    "main.79eb8187.js.map": "/Programming2_Project2/static/js/main.79eb8187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719aeb1d.css",
+    "static/js/main.79eb8187.js"
+  ]
+}
